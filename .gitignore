@@ -1,0 +1,23 @@
+# mac os x
+.DS_Store*
+Icon?
+._*
+
+# windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# linux
+.directory
+*~
+
+
+# npm
+node_modules
+package-lock.json
+*.log
+*.gz
+
+# coveralls
+coverage
